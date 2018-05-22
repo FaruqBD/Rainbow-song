@@ -8,5 +8,6 @@ $ git config --global user.email example@gmail.com
 $ git config --list //for close ending section ":+q"
 $ git log
 $ git push
+$ git remote add origin git@github.com:FaruqBD/catering_lara.git
 $ git remote -v //show the remote repostitory
 
