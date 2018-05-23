@@ -11,3 +11,11 @@ $ git push
 $ git remote add origin git@github.com:FaruqBD/catering_lara.git
 $ git remote -v //show the remote repostitory
 
+
+
+
+/laravel command.......
+composer update
+php artisan storage:link
+php artisan key:generate
+
